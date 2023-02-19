@@ -1,0 +1,43 @@
+.a1{
+    margin-top: 50px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.a2{
+    border: 2px;
+    border-style: double;
+    border-color: cyan;
+    height: 100vh;
+    width: 15%;
+    display: inline-block;
+}
+.a3{
+    border: 2px;
+    border-style: double;
+    border-color: cyan;
+    height: 100vh;
+    width: 70%;
+    display: inline-block;
+    overflow: hidden;
+}
+#A4{
+    color:whitesmoke;
+}
+.a2 > h3{
+    padding: 15px;
+    color: aquamarine;
+    text-align: center;
+}
+.a3 >object{
+     overflow: hidden;
+}
+.notes{
+    font-size: 60px;
+    color: azure;
+}
+#S1{
+    
+    color: rgb(86, 101, 215);
+}
